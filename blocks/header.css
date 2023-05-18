@@ -9,6 +9,8 @@
   background-image: url("../images/background_header.svg");
   background-position: center;
   background-size: cover;
+  display: flex;
+  flex-direction: column;
 }
 
 .header__title {
@@ -54,20 +56,6 @@
   right: 5px;
 }
 
-.header__footer {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0 80px 40px;
-  z-index: 2;
-}
-
 .header__paragraph {
   font-family: Inter, Arial, sans-serif;
   font-weight: 500;
@@ -76,4 +64,15 @@
   color: #838383;
   margin: 0;
   align-self: flex-end;
+}
+
+.header__footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+  margin: auto 0 0;
+  padding-left: 50px;
+  z-index: 2;
 }
