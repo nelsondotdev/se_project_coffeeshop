@@ -16,7 +16,7 @@
   line-height: 20px;
 }
 
-.form__label_align {
+.form__label_type_checkbox {
   display: flex;
   justify-content: center;
 }
@@ -24,7 +24,7 @@
 .form__input {
   box-sizing: border-box;
   border-radius: 4px;
-  border-width: 1px solid #838383;
+  border: 1px solid #838383;
   margin-top: 8px;
   margin-bottom: 32px;
   font-family: Inter, Arial, sans-serif;
