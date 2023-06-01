@@ -10,7 +10,3 @@ This is the second project of the Web Development program at Practicum. It was c
 - Flat BEM
 - A custom form
 - CSS animation and transform
-
-## Plan on improving the project
-
-Add your ideas here :)
