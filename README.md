@@ -10,3 +10,7 @@ This is the second project of the Web Development program at Practicum. It was c
 - Flat BEM
 - A custom form
 - CSS animation and transform
+
+## Project page
+
+[Practicum Coffee Shop](https://nsithlopez.github.io/se_project_coffeeshop/)
