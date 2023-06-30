@@ -13,4 +13,4 @@ This is the second project of the Web Development program at Practicum. It was c
 
 ## Project page
 
-[Practicum Coffee Shop](https://nsithlopez.github.io/se_project_coffeeshop/)
+[Practicum Coffee Shop](https://nelsondotdev.github.io/se_project_coffeeshop/)
